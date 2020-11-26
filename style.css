@@ -1,0 +1,147 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    line-height: 1.5;
+    color: #4e514E;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    margin: 0px auto 0px auto;
+    padding: 15px;
+    font-size: 4.5rem;
+    color: #66bFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    color: #66bFBF;
+}
+
+.programer {
+    font-weight: bold;
+    margin: auto auto 0px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.sq-1 {
+    background-color: #E4F9F0;
+    padding-top: 70px;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 18.75rem;
+    top: 3.125rem;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 18.75rem;
+    left: 18.75rem;
+}
+
+.middle-container {
+    margin: 50px 0px;
+}
+
+.mon {
+    margin: 0px auto auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+p {
+    line-height: 2.1;
+    font-size: 0.95rem;
+}
+
+.comp-img {
+    width: 150px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+
+.cod-img {
+    width: 150px;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.profil {
+    font-size: 20px;
+    margin: auto;
+    width: 40%;
+}
+
+hr {
+    border: none;
+    border-top: 12px dotted #EAF6F6;
+    width: 4%;
+    margin: 50px auto;
+}
+
+.contact-me {
+    margin-bottom: 50px;
+}
+.para-bott{
+    margin: 25px auto;
+    width: 45%;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#11cdd4), to(#11999e));
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#30e3cb), to(#2be4ad));
+    background-image: linear-gradient(to bottom, #30e3cb, #2be4ad);
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 3%;
+    color: #EAF6F6;
+}
+
+.footer-link {
+    margin: auto 20px;
+    color: #11999E;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+.img-proto {
+    border-radius: 50%;
+    width: 15%;
+}
+.cop{
+    font-size: 10px;
+}
